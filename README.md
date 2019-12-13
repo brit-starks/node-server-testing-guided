@@ -1,4 +1,4 @@
-# Node Server Testing Guided Project
+# Node Server Testing Guided Project -- Brittney Thomas
 
 Guided project for **Node Server Testing** Module.
 
